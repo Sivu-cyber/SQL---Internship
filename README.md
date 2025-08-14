@@ -4,3 +4,5 @@ Summary of Each Folder
 •	Day3 - Extracting data using where clause, groupby, orderby and having clause.                                                                                                       
 •	Day4 - Aggregate functions and grouping.                                                                                                                                        
 •	Day5 - Joins and its types.
+
+Day7 - Views and its Usage
