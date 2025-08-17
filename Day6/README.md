@@ -71,6 +71,7 @@ Key Characteristics:
 •	Can sometimes be a good alternative to a CTE (Common Table Expression).
 
 Summary (When to Use What):
+
 •	Scalar Subquery → return single value (SELECT, WHERE).
 
 •	Correlated Subquery → when filtering based on outer query row.
